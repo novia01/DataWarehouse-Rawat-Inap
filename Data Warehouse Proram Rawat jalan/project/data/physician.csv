@@ -1,0 +1,36 @@
+physicianID,name,position,SSN,status
+1,John Dorian,Staff Internist,111111111,Training
+2,Elliot Reid,Attending Physician,222222222,Senior
+3,Christopher Turk,Surgical Attending Physician,333333333,Senior
+4,Percival Cox,Senior Attending Physician,444444444,Senior
+5,Bob Kelso,Head Chief of Medicine,555555555,Senior
+6,Todd Quinlan,Surgical Attending Physician,666666666,Senior
+7,John Wen,Surgical Attending Physician,777777777,Senior
+8,Keith Dudemeister,MD Resident,888888888,Training
+9,Molly Clock,Attending Psychiatrist,999999999,Senior
+10,Victor Miller,Junior Urologist,999999998,Training
+11,Kate Martin,Senior Pathologist,999999998,Senior
+12,Victoria Roberts,Senior Physical Therapist,999999996,Senior
+13,Rafael Cunningham,Head of ICU,999999995,Senior
+14,Sarah Bailey,Surgical Attending Physician,999999994,Training
+15,Brianna Myers,Senior Neurologist,999999993,Senior
+16,Adelaide Clark,Head of Mother and Child,999999992,Senior
+17,John Evans,Attending Psychiatrist,777777771,Training
+18,Wilson Harris,Senior Cardiologist,777777772,Senior
+19,Alfred Mitchell,Attending Psychiatrist,777777773,Training
+20,Robert Walker,Staff Internist,777777774,Senior
+21,Stuart Hill,Surgical Attending Physician,777777775,Senior
+22,Frederick Walker,Senior Urologist,777777776,Senior
+23,Jenny Clark,Senior Radiologist,777777778,Senior
+24,Tony Robinson,Senior Dermatologist,777777779,Senior
+25,Ryan Tucker,MD Resident,222222221,Training
+26,Aldus Robinson,Senior Attending Physician,222222223,Senior
+27,Jack Baker,MD Resident,222222224,Training
+28,Sawyer Douglas,Senior Attending Physician,222222225,Senior
+29,James Perkins,Surgical Attending Physician,222222226,Senior
+30,Carla May,Junior Radiologist,222222287,Training
+31,Sally Doe,Junior Radiologist,222222244,Training
+32,Dominik Johnsonn,Staff Intensive Care Unit Staff,222222276,Senior
+33,Pablo del Sol,Junior Intensive Care Unit Staff,222222244,Training
+34,Diana Peterson,Senior Pathologist,222222204,Senior
+35,Raj Dewata,Junior Neurologist,222222209,Training

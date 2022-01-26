@@ -1,0 +1,44 @@
+medicationCode,name,brandID,price
+1,Procrastin-X,BR01,5
+2,Thesisin,BR02,10
+3,Awakin,BR02,25
+4,Crescavitin,BR04,55
+5,Melioraurin,BR05,55
+6,Ibuprofen,BR02,18
+7,Imbruvica,BR02,30
+8,Meloxicam,BR02,60
+9,Lexapro,BR02,35
+10,Fluoxetine,BR02,30
+11,Duloxetine,BR02,60
+12,Escitalopram,BR02,35
+13,Contrast media,BR02,30
+14,Vasoactives,BR02,18
+15,Analgesics,BR02,18
+16,Antimicrobials,BR02,18
+17,Gastric motility sedatives,BR02,35
+18,Aspirin,BR02,18
+19,Cloxacillin Cephalosporins,BR02,18
+20,Tetracyclines,BR02,18
+21,Sulphonamides,BR02,35
+22,Dihydrocodeine,BR02,60
+23,Temazepam,BR02,60
+24,Fentanyl,BR02,18
+25,Carbamazepine,BR01,55
+26,Ethosuximide,BR02,30
+27,Retigabine,BR02,18
+28,Topiramate,BR02,18
+29,Pregabalin,BR02,60
+30,Acebutolol,BR02,30
+31,Betaxolol,BR02,35
+32,Propranolol,BR02,35
+33,Nadolol,BR02,18
+34,Metoprolol,BR02,18
+35,Sildenafil,BR02,30
+36,Trospium,BR02,60
+37,Alfuzosin,BR01,55
+38,Oxybutynin,BR02,60
+39,Tolterodine,BR02,60
+40,Darifenacin,BR02,18
+41,Follitropin,BR02,35
+42,Urofollitropin,BR02,30
+43,Ethanol,BR02,35
